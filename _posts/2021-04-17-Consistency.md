@@ -4,6 +4,7 @@ title:  "Consistency"
 date:   2021-04-17 16:41:58 -0500
 categories: jekyll update
 readtime: true
+tags: [life]
 ---
 >Success isn't always about greatness. It's about consistency. Consistent hard work leads to success. Greatness will come. 
 >
