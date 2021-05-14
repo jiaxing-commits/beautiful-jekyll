@@ -3,6 +3,7 @@ layout: post
 title:  "Consistency"
 date:   2021-04-17 16:41:58 -0500
 categories: jekyll update
+cover-img: /assets/img/dwayne-the-rock-johnson.jpg
 readtime: true
 tags: [life]
 ---
