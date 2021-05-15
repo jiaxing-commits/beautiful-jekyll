@@ -12,7 +12,7 @@ My name is Jiaxing Wu. I have the following qualities:
 - I play [league](https://na.leagueoflegends.com/en-us/). Hit me up. League IGN: ChubbiCat. Steam Name: ChubbiCat.
 - Interested in travelling, learning, and finance.
 - love cats. 
-- I have a lovely girlfriend of 2 years. <3
+- I have a lovely girlfriend of 2 years. ❤️
 
 ### My story
 
