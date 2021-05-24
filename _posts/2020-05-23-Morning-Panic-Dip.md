@@ -34,7 +34,8 @@ Example:
     * ask = minimum price where sellers are willing to sell
     * bid = maximum price where buyers are willing to buy
     * You’re looking for a **wall of buyers**. They are the ones that would bounce the price.
-2. Watch for the previous support level. This is potentially where the bounce/bottom is.
+2. Watch for the previous support level. 
+    * This is potentially where the bounce/bottom is.
 
 
 
