@@ -55,6 +55,12 @@ int solve(int x)
 }
 ```
 
+**5 Easy Steps to DP:**
+1. Visualize Example
+2. Find an appropriate subproblem
+3. Generalize the relationship
+4. Implement by solving subproblems in order
+
 
 
 
