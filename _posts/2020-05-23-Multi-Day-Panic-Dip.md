@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Morning Panic Dip"
+title:  "Multi-Day Runner Panic Dip"
 date:   2021-05-23 16:41:58 -0500
 categories: jekyll update
 readtime: true
