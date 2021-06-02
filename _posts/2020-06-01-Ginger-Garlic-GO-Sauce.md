@@ -3,7 +3,7 @@ layout: post
 title:  "Ginger Garlic Green Onion Sauce"
 date:   2021-06-1 16:41:58 -0500
 categories: jekyll update
-cover-img: /assets/img/3G-sauce.jpg.png
+cover-img: /assets/img/3G-sauce.jpg
 readtime: true
 tags: [Food]
 ---
